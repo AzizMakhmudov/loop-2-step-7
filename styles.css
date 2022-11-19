@@ -172,15 +172,15 @@ body {
 }
 
 .first-date__box {
-  transform: translateX(55px);
+  transform: translateX(20px);
 }
 
 .mid-date__box {
-  transform: translateX(75px);
+  transform: translateX(50px);
 }
 
 .last-date__box {
-  transform: translateX(25px);
+  transform: translateX(0px);
 }
 
 .contact-box {
